@@ -34,7 +34,7 @@ Users should be able to:
 
 ![Desktop](https://github.com/dusvimarin/FEM-qr-code-component-main/blob/main/screenshots/desktop.png)
 
-![Mobile] (https://github.com/dusvimarin/FEM-qr-code-component-main/blob/main/screenshots/mobile.PNG)
+![Mobile](https://github.com/dusvimarin/FEM-qr-code-component-main/blob/main/screenshots/mobile.PNG)
 
 ### Links
 
