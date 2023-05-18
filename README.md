@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-article-preview-component-master/blob/main/screenshots/desktop.png)
+![](https://github.com/dusvimarin/FEM-qr-code-component-main/blob/main/screenshots/desktop.png)
 
 
 
