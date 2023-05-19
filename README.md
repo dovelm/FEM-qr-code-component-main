@@ -32,13 +32,13 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-qr-code-component-main/blob/main/screenshots/desktop.png)
+![Desktop](https://github.com/dusvimarin/FEM-qr-code-component-main/blob/main/screenshots/desktop.png)
 
-
+![Mobile](https://github.com/dusvimarin/FEM-qr-code-component-main/blob/main/screenshots/mobile.PNG)
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dusvimarin.github.io/FEM-qr-code-component-main/)
 
 
 ## My process
