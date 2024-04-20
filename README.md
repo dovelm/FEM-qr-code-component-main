@@ -32,13 +32,13 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop](https://github.com/dovelym/FEM-qr-code-component-main/blob/main/screenshots/desktop.png)
+![Desktop](https://github.com/dovelm/FEM-qr-code-component-main/blob/main/screenshots/desktop.png)
 
-![Mobile](https://github.com/dovelym/FEM-qr-code-component-main/blob/main/screenshots/mobile.png)
+![Mobile](https://github.com/dovelm/FEM-qr-code-component-main/blob/main/screenshots/mobile.png)
 
 ### Links
 
-[My Solution](https://dovelym.github.io/FEM-qr-code-component-main/)
+[My Solution](https://dovelm.github.io/FEM-qr-code-component-main/)
 
 
 ## My process
@@ -64,4 +64,4 @@ I learned to use elements flexbox.
 - Google chome/tools/development tools
 
 ## Author
-[@dusvy_m](https://github.com/dovelym)
+[@dusvy_m](https://github.com/dovelm)
